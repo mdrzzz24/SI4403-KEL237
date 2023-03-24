@@ -1,2 +1,2 @@
-Perusahaan, user dan admin dapat melihat informasi umum mengenai lowongan pekerjaan dari perusahaan.
+Perusahaan, user dan admin dapat melihat informasi umum mengenai lowongan pekerjaan dari perusahaan
 
